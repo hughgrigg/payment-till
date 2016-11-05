@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "description": "Baked Beans",
+            "price": "£0.50"
+        },
+        {
+            "description": "Washing Up Liquid",
+            "price": "£0.72"
+        },
+        {
+            "description": "Rubber Gloves",
+            "price": "£1.50"
+        },
+        {
+            "description": "Bread",
+            "price": "£0.72"
+        },
+        {
+            "description": "Butter",
+            "price": "£0.83"
+        },
+        {
+            "description": "Voucher",
+            "price": "£-0.50"
+        }
+    ]
+}

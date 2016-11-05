@@ -1,0 +1,13 @@
+#!/usr/bin/env php
+<?php
+
+if (!$loader = include __DIR__ . '/vendor/autoload.php') {
+    die('Run composer install');
+}
+
+$app = new \Cilex\Application('Till');
+$app->command(new \Till\Command\CsvReceiptCommand());
+$app->command(new \Till\Command\JsonReceiptCommand());
+$app->command(new \Till\Command\XmlReceiptCommand());
+
+$app->run();

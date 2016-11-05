@@ -1,0 +1,26 @@
+<order>
+    <item>
+        <description>Baked Beans</description>
+        <price>£0.50</price>
+    </item>
+    <item>
+        <description>Washing Up Liquid</description>
+        <price>£0.72</price>
+    </item>
+    <item>
+        <description>Rubber Gloves</description>
+        <price>£1.50</price>
+    </item>
+    <item>
+        <description>Bread</description>
+        <price>£0.72</price>
+    </item>
+    <item>
+        <description>Butter</description>
+        <price>£0.83</price>
+    </item>
+    <item>
+        <description>Voucher</description>
+        <price>£-0.50</price>
+    </item>
+</order>
